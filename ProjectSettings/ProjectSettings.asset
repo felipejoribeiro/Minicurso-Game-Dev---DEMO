@@ -172,7 +172,7 @@ PlayerSettings:
     Android: com.borntobesci
   buildNumber: {}
   AndroidBundleVersionCode: 2
-  AndroidMinSdkVersion: 21
+  AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 29
   AndroidPreferredInstallLocation: 1
   aotOptions: 
